@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "140514944822",
+    "firebase_url": "https://gradebase-b9b72.firebaseio.com",
+    "project_id": "gradebase-b9b72",
+    "storage_bucket": "gradebase-b9b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140514944822:android:56a67a840152041c",
+        "android_client_info": {
+          "package_name": "com.phantomapplications.www.gradebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140514944822-c12q424meqhfdf8ooj1joc8nncm4von8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvmwzY8hSqGSeRy5RysKF4TCiXm2wHco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140514944822:android:ed28e61387962a4e",
+        "android_client_info": {
+          "package_name": "com.intsudio.www.redbeast10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140514944822-8u47m92d9ae4u6pnpbkk0q7c3ihc0tf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intsudio.www.redbeast10",
+            "certificate_hash": "f07d47280974770af53cde5cb39cab99919ffb59"
+          }
+        },
+        {
+          "client_id": "140514944822-c12q424meqhfdf8ooj1joc8nncm4von8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvmwzY8hSqGSeRy5RysKF4TCiXm2wHco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140514944822-c12q424meqhfdf8ooj1joc8nncm4von8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140514944822-aopobmbor8s2eos7l5olg5n9uomdkja4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ankushgirotra.Echelon"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140514944822:android:9612a1b08ef43c79",
+        "android_client_info": {
+          "package_name": "com.inquisitor.android.echelondata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140514944822-ormgj53pnpalhflm2uk8913uu034qntf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inquisitor.android.echelondata",
+            "certificate_hash": "c7f0939bd3a0eeed8fb9dad9399a48ae521da2fd"
+          }
+        },
+        {
+          "client_id": "140514944822-c12q424meqhfdf8ooj1joc8nncm4von8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvmwzY8hSqGSeRy5RysKF4TCiXm2wHco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140514944822-c12q424meqhfdf8ooj1joc8nncm4von8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140514944822-aopobmbor8s2eos7l5olg5n9uomdkja4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ankushgirotra.Echelon"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140514944822:android:dbcd1df5059fdd9c",
+        "android_client_info": {
+          "package_name": "com.phantomapplications.www.projectechelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140514944822-c12q424meqhfdf8ooj1joc8nncm4von8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvmwzY8hSqGSeRy5RysKF4TCiXm2wHco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
